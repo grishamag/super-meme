@@ -1,5 +1,5 @@
 cd PythonProject35 # Your app working directory!!!
-export PORT=7070
+export PORT=5000
 unset PIP_USER
 
 # Create venv if not exists
